@@ -1,0 +1,28 @@
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\bin\Debug\XOX-Games.exe.config
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\bin\Debug\XOX-Games.exe
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\bin\Debug\XOX-Games.pdb
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX-Games.csprojAssemblyReference.cache
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX_Games.Properties.Resources.resources
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX-Games.csproj.GenerateResource.cache
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX-Games.csproj.CoreCompileInputs.cache
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX-Games.exe
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX-Games.pdb
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmYapayZeka.resources
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmClient.resources
+c:\users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmServer.resources
+C:\Users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmikiKisi.resources
+C:\Users\bekir\source\repos\XOX-Games\XOX-Games\obj\Debug\XOX_Games.AnaForm.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX-Games.csprojAssemblyReference.cache
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX_Games.AnaForm.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmClient.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmikiKisi.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmServer.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX_Games.frmYapayZeka.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX_Games.Properties.Resources.resources
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX-Games.csproj.GenerateResource.cache
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX-Games.csproj.CoreCompileInputs.cache
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX-Games.exe
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\obj\Debug\XOX-Games.pdb
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\bin\Debug\XOX-Games.exe.config
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\bin\Debug\XOX-Games.exe
+C:\Users\Cennet\Desktop\Yazılım sınama\Ödev 1\XOX-Games\XOX-Games\bin\Debug\XOX-Games.pdb
